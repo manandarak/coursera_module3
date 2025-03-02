@@ -1,0 +1,17 @@
+/* Navbar */
+.navbar {
+    margin-bottom: 0; /* No gap below navbar */
+  }
+  
+  /* Mobile Dropdown Menu */
+  #mobile-menu {
+    background-color: #f8f8f8; /* Light gray background to stand out */
+    width: 100%; /* Full width */
+  }
+  
+  /* Tall Section */
+  .tall-section {
+    background-color: #e0e0e0; /* Different color to stand out */
+    height: 1000px; /* Really tall */
+    margin: 15px 0; /* Some spacing */
+  }
